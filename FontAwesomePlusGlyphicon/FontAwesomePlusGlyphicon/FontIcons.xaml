@@ -28,9 +28,9 @@
                                     <Label.FormattedText>
                                         <FormattedString>
                                             <FormattedString.Spans>
-                                                <Span x:Name="fontAwesomeSpan" Text="&#xe003;" FontFamily="{StaticResource FontAwesomeStyle}" />
+                                                <Span x:Name="fontAwesomeSpan" Text="Empty" FontFamily="{StaticResource FontAwesomeStyle}" />
                                                 <Span Text=" + "/>
-                                                <Span x:Name="glyphiconSpan" Text="&#xe003;" FontFamily="{StaticResource GlyphiconStyle}" />
+                                                <Span x:Name="glyphiconSpan" Text="Empty" FontFamily="{StaticResource GlyphiconStyle}" />
 
                                                 <!--EXAMPLE-->
                                                 <!--<Span x:Name="fontAwesomeSpan" Text="&#xf0f9;" FontFamily="{StaticResource FontAwesomeStyle}" />-->
